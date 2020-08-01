@@ -1,4 +1,4 @@
-# Node API REST using SOLID principles.
+# API Node REST using SOLID principles.
 
 ## In this Example, the api send a email to the Mailtrap
 
